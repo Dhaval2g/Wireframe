@@ -1,0 +1,76 @@
+body{
+    width:800px;
+}
+.nav-bar{
+    width: 800px;
+    height: 82px;
+}
+.logo{
+    background-color: blue;
+    width: 232px;
+    height: 82px;
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 11px;
+}
+.banner{
+    background-color: black;
+    width: 557px;
+    height: 82px;
+    display: inline-block;
+    overflow: hidden; 
+    margin-left: -4px;
+    padding: 0;
+}
+
+/*main-container*/
+.main-container{
+    width: 800px;
+    height:448px;
+    background-color: #E9EBEB;
+    margin-top: 11px;
+}
+.left-container{
+    width:232px;
+    height: 448px;
+    display: inline-block;
+    background-color: #E9EBEB;
+    margin-right: 11px;
+}
+.right-container{
+    width:557px;
+    height: 448px;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin-left: -4px;
+}
+.left1{
+    width:232px;
+    height: 210px;
+    background-color: goldenrod;
+}
+.left2{
+    width:232px;
+    height: 205px;
+    background-color: gold;
+    margin-top: 33px;
+}
+.right1{
+    width:557px;
+    height:49px;
+    background-color: skyblue;
+}
+.right2{
+    width:557px;
+    height:384px;
+    background-color: skyblue;
+    margin-top: 15px;
+}
+
+/*Legal footer*/
+.legal{
+    width: 800px;
+    height: 44px;
+    background-color: royalblue;
+    margin-top: 15px;
+}
